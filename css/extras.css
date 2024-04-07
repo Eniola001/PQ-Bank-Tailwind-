@@ -1,0 +1,6 @@
+.pb-header {
+    background: linear-gradient(180deg, #080609 57.14%, #45a60a 100%);
+    height: 100vh;
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0% 100%);
+    color: white;
+  }
